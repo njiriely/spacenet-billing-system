@@ -1,6 +1,4 @@
-![ReadMeSupportPalestine](https://speedcomwifi.co.ke/ui/theme/default/images/logo.png)
-
-# SpeedRadius - API Based PHP Mikrotik Billing System
+# Spacenet Radius - API Based PHP Mikrotik Billing System
 
 ![PHPNuxBill](install/img/logo.png)
 
@@ -54,7 +52,7 @@ The problem with windows is hard to set cronjob, better Linux
 
 ## Installation
 
-[Installation instructions](https://github.com/shabran01/SpeedRadius/wiki)
+[Installation instructions]([https://github.com/njiriely/spacenet-billing-system])
 
 
 ## Technical Support
@@ -69,7 +67,7 @@ Please note: If you contact me for technical support, a fee will be required bef
 
 ask anything for free in the [discussion](/hotspotbilling/phpnuxbill/discussions) page or [Telegram Group](https://t.me/phpnuxbill)
 
-Contact me at [website](speedcomwifi.xyz/)
+Contact me at [website](comegetleads.africa)
 
 ## License
 
@@ -77,12 +75,6 @@ GNU General Public License version 2 or later
 
 see [LICENSE](LICENSE) file
 
-
-## Donate to Shabran Kweyu
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/ibnux)
-
-Mpesa : 0718167262
 
 ## Thanks
 We appreciate all people who are participating in this project.
